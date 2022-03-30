@@ -14,6 +14,8 @@
 
 打开速度随缘，有条件请使用魔法。
 
+如果你发现它打不开，说明服务器在维护，等多会再试试。
+
 本站由 Flarum 驱动，感谢开源社区。
 
 <p align="center"><img src="https://flarum.org/assets/img/logo.png"></p>
